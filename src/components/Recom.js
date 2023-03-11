@@ -7,7 +7,7 @@ const Recom =()=>{
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="imageMenu/cappuccino.jpg"
+          src="../public/imageMenu/cappuccino.jpg"
           alt="First slide"
         />
         <Carousel.Caption>
