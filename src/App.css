@@ -1,0 +1,295 @@
+.App {
+  color: white;
+}
+html,body{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  position:relative;
+}
+html{
+  scroll-behavior: smooth;
+}
+#container{
+  min-height: 100%;
+  position: relative;
+}
+#body{
+  padding: 10px;
+  width: 100%;
+}
+.bina_img{
+  width: 500px;
+  height: 500px;
+}
+footer{
+  width: 100%;
+  top:100%;
+  bottom: 0;
+  position:sticky;
+  height: 75px;
+  background-color: rgba(8, 8, 8, 0.74);
+  text-align:center;
+  font-size: 11px;
+  color: white;
+}
+.jumbotron{
+  text-align:center;
+  font-size: 20px;
+  color: white;
+}
+.menuheader{
+  background-color: rgba(151, 153, 153, 0.979);
+}
+.buttonnav{
+  margin: 5px;
+}
+.rightnav{
+  margin-left: 73.5%;
+}
+.iconkrj{
+  width: 25px;
+  height: 25px;
+}
+.Navbar{
+  background-color: #202020;
+  position: fixed;
+}
+.notif{
+  margin-left: 5px;
+}
+.menu{
+  background-color:rgba(51, 51, 50, 0.74);
+  width: 100%;
+  padding-top: 7.5px;
+  margin: 1px;
+  text-align: center;
+  position:sticky;
+}
+.menu ul{
+  margin-top: 0;
+  text-align: left;
+  display: inline;
+}
+.menu ul li{
+  list-style: none;
+  display: inline-block;
+  padding: 5px;
+}
+.menu ul li a{
+  display: block;
+  text-decoration: none;
+  padding: 5px;
+  color: white;
+}
+.menu ul li a:hover{
+  display: block;
+  color: white;
+  background: rgba(212, 160, 16, 0.74);
+}
+.menu ul li .dropdown{
+  display: none;
+  text-align: center;
+}
+.menu ul li:hover .dropdown{
+  display: block;
+  background-color: rgba(80, 80, 79, 0.74);
+  position: absolute;
+  padding: 1px;
+}
+.menu ul li:hover .dropdown li{
+  display: block;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.titleutama{
+  padding-top:5%;
+}
+.introText{
+  color: rgba(221, 223, 223, 0.979);
+  display: flex;
+  height: 300px;
+  align-items:center;
+  justify-content: end;
+}
+.myBG{
+  height: auto;
+  background-image: url('assets/bg1.jpg');
+  background-size:cover;
+}
+.aboutbg{
+  height: 80vh;
+  background-image: url('assets/bg6.avif');
+  background-size: cover;
+}
+.mainmenu{
+  height: 100vh;
+}
+.mainlogin{
+  height: auto;
+  width: auto;
+}
+.loginform{
+  color: black;
+}
+.icon{
+  height: 350px;
+  width: auto;
+}
+.icon1{
+  height: 150px;
+  width: auto;
+}
+.tittle{
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px black;
+  letter-spacing: 5px;
+}
+.judulmenu{
+  color: rgba(21, 22, 22, 0.979);
+  font-size: 3rem;
+  font-weight: 500px;
+  font-style: oblique;
+  letter-spacing: 5px;
+  text-shadow: 2px 2px black;
+  align-items: center;
+  text-align: center;
+  padding-top: 1.5%;
+  padding-bottom:1.5% ;
+}
+.buttonmenu{
+  height: 40px;
+  width: 40px;
+  margin: 2px;
+}
+.buttonkeranjang{
+  height: auto;
+  width: auto;
+  margin: 2px;
+}
+.keranjang{
+  padding-left: 62%;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.recommended{
+  height: 100vh;
+  background-image: url('assets/bg2.jpg');
+  background-size: cover;
+}
+
+.images{
+ height: 120px;
+}
+.textplace{
+  width: 30px;
+}
+.containermenu{
+  background-color: rgb(184, 190, 190);
+}
+.movieImage{
+  height: auto;
+  width: 210px;
+  margin: 10px;
+  padding: 10px;
+}
+.kopi{
+  text-align: center;
+  font-style: oblique;
+}
+.menukopi{
+  width: 110px;
+  text-align: left;
+  padding-left: 3%;
+}
+.rowtable{
+  width: 100%;
+}
+.tablekrj{
+  width: auto;
+}
+.tablehrg{
+  width: auto;
+  text-align: left;
+}
+.tablemenu{
+  width: 100%;
+}
+.table1{
+  width: 65%;
+}
+.cardmenu{
+  margin-left: 10px;
+  padding-top: 20px;
+}
+.recommenu{
+  margin-left: 25%;
+  height: 75vh;
+  width: 75ch;
+}
+.scroll{
+  height: 75vh;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+.pagelogin{
+  color: rgb(20, 20, 20);
+  height: 100vh;
+  background-image: url('assets/bg3.jpg');
+  background-size: cover;
+  width: 100%;
+}
+.logincont{
+  padding-top: 20vh;
+  width: 100%;
+}
+.aboutcont{
+  padding-top: 30vh;
+  width: 100%;
+}
+.buttonabout{
+  margin-top: 12px;
+}
+.logintab{
+  text-align: center;
+  margin-left: 5%;
+}
+.iconlogin{
+  height: 350px;
+  width: auto;
+}
+.Modalabout{
+  text-align: justify;
+  margin: 5px;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
