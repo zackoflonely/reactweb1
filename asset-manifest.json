@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/zackoflonely/coffeeshop.git/static/css/main.403b5f64.css",
+    "main.js": "/zackoflonely/coffeeshop.git/static/js/main.4b8fa049.js",
+    "static/js/787.fade2e9e.chunk.js": "/zackoflonely/coffeeshop.git/static/js/787.fade2e9e.chunk.js",
+    "static/media/bina.jpg": "/zackoflonely/coffeeshop.git/static/media/bina.bf4c7145d4f8c7b463c2.jpg",
+    "static/media/bg6.avif": "/zackoflonely/coffeeshop.git/static/media/bg6.8de2a835305fdec20120.avif",
+    "static/media/bg3.jpg": "/zackoflonely/coffeeshop.git/static/media/bg3.424f0b1a6760448fccb6.jpg",
+    "static/media/bg2.jpg": "/zackoflonely/coffeeshop.git/static/media/bg2.2e59c618dc5837e00658.jpg",
+    "static/media/Noffein.png": "/zackoflonely/coffeeshop.git/static/media/Noffein.f23184d81ef55b2aaf74.png",
+    "static/media/bg1.jpg": "/zackoflonely/coffeeshop.git/static/media/bg1.deff2209f12e8cadf929.jpg",
+    "index.html": "/zackoflonely/coffeeshop.git/index.html",
+    "main.403b5f64.css.map": "/zackoflonely/coffeeshop.git/static/css/main.403b5f64.css.map",
+    "main.4b8fa049.js.map": "/zackoflonely/coffeeshop.git/static/js/main.4b8fa049.js.map",
+    "787.fade2e9e.chunk.js.map": "/zackoflonely/coffeeshop.git/static/js/787.fade2e9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.403b5f64.css",
+    "static/js/main.4b8fa049.js"
+  ]
+}
